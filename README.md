@@ -34,7 +34,7 @@ This project is a simple JSON validator built with React and TypeScript. It allo
 2.  **Install dependencies:**
 
     ```bash
-        pnpm install
+    pnpm install
     ```
 
 3.  **Run the development server:**
